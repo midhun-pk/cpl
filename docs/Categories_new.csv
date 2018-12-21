@@ -1,0 +1,7 @@
+name,generalization,mutex_exceptions,instance_type,instances,patterns
+page,everything,,all,"""main"" ""Communicate"" ""Online Journal Main"" ""Web"" ""Article Manager main"" ""Article Manager home""","""accessed the _"" ""linked from the _"" ""pages such as _"" ""pages , such as _"""
+actor,person,"""client""",all,"""Author"" ""Member"" ""Reader"" ""Reviewer"" ""stakeholders"" ""User"" ""Article Manager"" ""principal author""","""in case of multiple _"" ""refers to the _"" ""communication between _"" ""list of _"" ""search by _"" ""_ submits the"" ""declined, or the _"" ""_ either submits"" ""_ chooses the"" ""_ fills in"" ""enters a new _"" ""a current _"""
+client,person,"""actor""",all,"""Editor""","""_ accesses the"""
+image,abstract thing,,all,"""background"" ""header"" ""footer"" ""profile""","""change the _"" ""change his _"" ""change her _"""
+button,abstract thing,"""icon""",all,"""Submit"" ""Register"" ""Sign in"" ""Sign up""","""clicks on the _"" ""presses the _"" ""_ is pressed by"" ""after clicking the _"""
+icon,abstract thing,"""button""",all,"""profile"" ""edit"" ""delete"" ""view"" ""add""","""clicks on the _"" ""presses the _"" ""_ is pressed by"""

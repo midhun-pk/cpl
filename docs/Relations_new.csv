@@ -1,0 +1,4 @@
+name,domain,range,mutex_exceptions,known_negatives,instances,patterns
+accessed,actor,page,,,"{""Reader"",""Online Journal Website""} {""Editor"",""main""} {""Editor"",""article""}","""_ has already accessed the _"""
+connected,actor,page,,,"{""Reviewer"",""Online Journal Website""}","""_ has already connected to the _"""
+updates,client,actor,,,"{""Editor"",""Reviewer""}","""_ is updating a _"""
